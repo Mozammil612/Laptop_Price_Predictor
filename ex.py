@@ -2,9 +2,9 @@ import streamlit as st
 import numpy as np
 from pickle import load
 import pandas as pd
-
+import pickle
 #Loading pretrained classifier from pickle file
-model = load(open('knn_model.pkl', 'rb'))
+model = pickle.load(open('knn_model.pkl', 'rb'))
 #file = open("knn_model.pkl",'rb')
 
 #model = pickle.load(f)
