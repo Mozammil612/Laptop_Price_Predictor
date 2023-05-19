@@ -4,7 +4,7 @@ from pickle import load
 import pandas as pd
 
 #Loading pretrained classifier from pickle file
-model = load(open(r'models/knn_model.pkl', 'rb'))
+model = load(open('models/knn_model.pkl', 'rb'))
 
 
 
