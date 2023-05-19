@@ -4,10 +4,10 @@ from pickle import load
 import pandas as pd
 
 #Loading pretrained classifier from pickle file
-#model = pickle.load(open('knn_model.pkl', 'rb'))
-file = open("knn_model.pkl",'rb')
+model = pickle.load(open('knn_model.pkl', 'rb'))
+#file = open("knn_model.pkl",'rb')
 
-model = pickle.load(file)
+#model = pickle.load(file)
 
 
 
