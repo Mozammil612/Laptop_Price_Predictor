@@ -7,7 +7,7 @@ import pandas as pd
 #model = pickle.load(open('knn_model.pkl', 'rb'))
 file = open("knn_model.pkl",'rb')
 
-model = pickle.load(f)
+model = pickle.load(file)
 
 
 
