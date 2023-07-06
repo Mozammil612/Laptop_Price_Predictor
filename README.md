@@ -18,4 +18,6 @@ Brand - categorical
 
 #EDA
 ![image](https://github.com/Mozammil612/Laptop_Price_Predictor/assets/118210845/476143e2-d981-45fb-af1f-ddfa380421eb)
-![Screenshot 2023-07-06 163743](https://github.com/Mozammil612/Laptop_Price_Predictor/assets/118210845/1caf17cf-4da3-4019-90bc-3d3e7472b94f)
+![image](https://github.com/Mozammil612/Laptop_Price_Predictor/assets/118210845/f35ce4a9-ed4b-4b32-b15f-44b0e84f164d)
+![image](https://github.com/Mozammil612/Laptop_Price_Predictor/assets/118210845/db5ee94e-9428-40ab-91df-4f135fae0849)
+
